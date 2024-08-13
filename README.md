@@ -3,7 +3,7 @@
 - 🔬 Keen on droplet formation in cells (liquid-liquid phase separation) and a specialist in fluorescence confocal microscopy.
 - 🧬 Expert in CRISPR-based diagnostics and gene editing, with skills in recombinant protein production.
 - 🧪 Working as a specialist in next-generation sequencing, now focusing on single-cell and spatial sequencing.
-- 🌱 Diving into Python to streamline research and empower scientists.
+- 🌱 Diving into Python to streamline research and empower scientists, often writing scripts to tackle daily challenges and sharing them for broader use.
 - 🌍 Interested in politics, believing that good governance can lead to a better life for everyone.
 
 
